@@ -75,5 +75,4 @@ CREATE TABLE MARKSHEET (
 ## 📬 Contact
 
 Feel free to share feedback or suggest improvements. Pull requests are welcome!
-- Combine conditions with AND/OR
-- Understand real-world table structures
+

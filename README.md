@@ -24,7 +24,7 @@ The table used in this project is named `MARKSHEET` and includes the following c
 ## 🛠️ Table Creation SQL
 
 ```sql
-CREATE TABLE STUDENT_MARKSHEET (
+CREATE TABLE MARKSHEET (
   ID INT PRIMARY KEY,
   NAME VARCHAR(50),
   ADDRESS VARCHAR(50),

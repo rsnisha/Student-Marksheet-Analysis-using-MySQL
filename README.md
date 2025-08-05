@@ -64,18 +64,11 @@ CREATE TABLE MARKSHEET (
 
 ## ▶️ How to Use
 
-1. Clone this repository or download the `.sql` files.
+1. Clone this repository or download the `MARKSHEET.sql` files.
 2. Import the table.
 3. Use SQL engine like MySQL
 4. Run each query and observe the result.
 
----
-
-## 🚀 Learning Goal
-
-- Practice SELECT statements
-- Apply filtering with WHERE
-- Use ORDER BY for sorting
 
 ---
 
